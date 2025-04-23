@@ -1,0 +1,1 @@
+# Arquivo: stat.py
