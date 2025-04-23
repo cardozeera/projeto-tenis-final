@@ -1,1 +1,1 @@
-# Arquivo: main.py
+app = FastAPI()
